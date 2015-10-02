@@ -1,14 +1,10 @@
 #Group checks made easy
 
 
-001     Users arrives at restaurant and check in
-002     Waiter takes their order
-003     At the end of the meal, take picture of the receipt
-004     Scan line-items into food objects
-005     Food objects can be split by person. Simply tap what you want
-006     Enter your venmo handle to get a venmo charge request
-007     If you don't have venmo, Scan your credit card by taking a picture and entering security code
-008     Once everyone is complete, if the restaurant is on the service, then the transaction goes through behind the scenes.
-009     If the restaurant is not on the app, but has a venmo account, then the user venmos the restaurant
-010     If the restaurant is not on the app or venmo, then one person can simply put it on their card, and all the money will be sent to them
+001     Customer arrives at restaurant  
+002     Waiter takes their order on an ipad  
+003     The meal progress as normal. Drinks -> Appetizers -> Entrees -> Dessert
+004     Instead of bringing out a check, the waiter brings out an ipad with the bill on it.  
+005     Food objects can be split by person. Simply tap what you want, and checkout with venmo or credit card.  
+006     If a customer prefers, they can take out their phone and open our app. The geotag will sync with the app, so we know they're in the restaurant. They can tap and pay just like the waiter's ipad.
 
